@@ -1,0 +1,40 @@
+html{
+	background-color: darkcyan ;
+}
+
+
+
+/*Targets every element that has the class of "nav"*/
+.nav {
+	background-color: tomato;
+	margin: 100px; 
+	padding: 20px;
+
+}
+
+
+/*Targets the list items inside of an element with the class of nav*/
+
+.nav li {
+background-color: springgreen ;
+padding: 15px;
+display: inline-block;
+}
+
+.box{
+	float: left;
+	width: 49%;
+	border: 5px white double;
+	display: inline-block;
+}
+
+
+img{
+	width: 100%;
+}
+
+.card p{
+	background-color: orangered;
+	color: white;
+
+}
